@@ -1,0 +1,7 @@
+.app-frame{
+  height: 100%;
+  background-color: #1a1a1a;
+}
+html, body{
+  height: 100%;
+}

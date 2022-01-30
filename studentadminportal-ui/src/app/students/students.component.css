@@ -1,0 +1,43 @@
+table {
+  width: 100%;
+  overflow-y: scroll;
+}
+div .table-container{
+  height: auto;
+  min-height: 100vh;
+}
+div .mt-1{
+  margin-top: .5em;
+}
+div h1 {
+  color: #69f0ae;
+}
+
+.search-input {
+  border: 2px solid #888787;
+  border-radius: 2px;
+  background-color: #3f3f3f;
+  color: #f1f1f1;
+  padding: 8px 10px;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.search-input:active {
+  border: 2px solid ;
+  border-color: #69f0ae;
+}
+
+.search-input:focus {
+  outline: none;
+  border: 2px solid ;
+  border-color: #69f0ae;
+}
+
+th {
+  color: #ececec;
+  background-color: #7b1fa2;
+}
+td {
+  color: #69f0ae;
+}
+
