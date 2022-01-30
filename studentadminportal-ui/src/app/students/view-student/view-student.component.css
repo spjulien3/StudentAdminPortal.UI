@@ -1,0 +1,15 @@
+.top-row{
+  padding: 1em 0;
+}
+
+.mat-form-field{
+  width: 100%;
+}
+div.form-container{
+  height: 100%;
+  min-height: 100vh;
+}
+
+input{
+  color: #f1f1f1;
+}
