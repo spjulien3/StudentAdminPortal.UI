@@ -18,3 +18,7 @@ body {margin: 0; min-height: 100vh; height: auto;font-family: Roboto, "Helvetica
   color: #69f0ae;
 }
 
+.ml-1 {
+  margin-left: 1em !important;
+}
+
